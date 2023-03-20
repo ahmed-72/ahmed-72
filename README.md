@@ -40,8 +40,8 @@ I am a software developer with three years of experience, I had fun with every s
 ![Graphql](https://img.icons8.com/color/35/null/graphql.png)
 ![Firebase](https://img.icons8.com/?id=62452&size=35&color=000000)
 ![Git](https://img.icons8.com/color/35/git.png)
-![Gitlab](https://img.icons8.com/color/35/gitlab.png)
 ![Github](https://img.icons8.com/?id=52539&size=35)
+![Gitlab](https://img.icons8.com/color/35/gitlab.png)
 ![Bitbucket](https://img.icons8.com/color/35/bitbucket.png)
 
 ## Tools
