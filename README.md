@@ -13,7 +13,7 @@ I am a software developer with three years of experience, I had fun with every s
 
 ![Atyaf](https://img.icons8.com/color/35/html-5.png) 
 <a href="https://ctrladz.com/en/">
-    <img width="40" height="40" src="http://ctrladz.com/wp-content/uploads/2022/06/meed-1.png">
+    <img width="35" height="35" src="http://ctrladz.com/wp-content/uploads/2022/06/meed-1.png">
 </a>
 
 
