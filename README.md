@@ -20,7 +20,7 @@ I am a software developer with three years of experience, I had fun with every s
 ![Cpp](https://img.icons8.com/color/35/c-plus-plus-logo.png) 
 ![Java](https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png)
 ![Java Spring](https://img.icons8.com/?id=90519&size=35) 
-![ReactJS](https://img.icons8.com/plasticine/35/react.png)  
+![ReactJS](https://img.icons8.com/plasticine/35/react.png)
 ![Vue](https://img.icons8.com/color/35/null/vue-js.png) 
 ![Bash](https://img.icons8.com/plasticine/35/bash.png)
 ![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/35/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)
