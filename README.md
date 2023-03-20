@@ -14,7 +14,7 @@ Full stack web developer @
 <a href="https://atyaf.co/ar">
     <img width="35" height="35" src="https://atyaf.co/ar/structure/static/logo.svg">
 </a>
-<br><br>
+<br>
 <div>
 Full stack web developer @
 <a href="https://ctrladz.com/en/" style="display: inline-block;" >
@@ -22,7 +22,13 @@ Full stack web developer @
     <img width="35" height="35" src="http://ctrladz.com/wp-content/uploads/2022/06/meed-1.png" style="margin-top: 10px;">
 </a>
 </div>
-
+<br>
+<div style="display: flex; align-items: center;">
+  Full stack web developer @
+  <a href="https://ctrladz.com/en/" style="padding-left: 5px;">
+    <img width="35" height="35" src="http://ctrladz.com/wp-content/uploads/2022/06/meed-1.png" style="margin: 0;">
+  </a>
+</div>
 ## Programming Languages & Frameworks 
 
 ![HTML5](https://img.icons8.com/color/35/html-5.png) 
