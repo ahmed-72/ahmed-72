@@ -46,8 +46,8 @@ I am a software developer with three years of experience, I had fun with every s
 
 ## Tools
 
-![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=35)
 ![VSCode](https://img.icons8.com/color/35/visual-studio-code-2019.png)
+![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=35)
 ![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
 ![Jetbrains Products](https://img.icons8.com/color/35/jetbrains.png)
 ![WebStorm](https://img.icons8.com/?id=32sNCVhNAx9Y&size=35)
