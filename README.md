@@ -48,10 +48,11 @@ I am a software developer with three years of experience, I had fun with every s
 
 ![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=35)
 ![VSCode](https://img.icons8.com/color/35/visual-studio-code-2019.png)
-![Figma](https://img.icons8.com/?id=8gfeOoqrHqJU&size=35)
 ![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/35/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
 ![Jetbrains Products](https://img.icons8.com/color/35/jetbrains.png)
 ![WebStorm](https://img.icons8.com/?id=32sNCVhNAx9Y&size=35)
+![Figma](https://img.icons8.com/?id=8gfeOoqrHqJU&size=35)
+![XD](https://img.icons8.com/color/48/null/adobe-xd--v1.png)
 ![SceneBuilder](https://img.icons8.com/?id=BZz399uT6eo0&size=35&color=000000)
 ![Eclipse](https://img.icons8.com/office/35/java-eclipse.png)
 ![Console](https://img.icons8.com/color/35/console.png)
