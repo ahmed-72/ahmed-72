@@ -8,6 +8,13 @@
    
 
 I am a software developer with three years of experience, I had fun with every single line of code and I wish to code some more millions.
+
+## Programming Languages & Frameworks 
+
+![Atyaf](https://img.icons8.com/color/35/html-5.png) 
+![ctrladz](https://ctrladz.com/wp-content/uploads/2022/06/meed-1.png) 
+
+
 ## Programming Languages & Frameworks 
 
 ![HTML5](https://img.icons8.com/color/35/html-5.png) 
