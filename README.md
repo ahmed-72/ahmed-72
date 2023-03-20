@@ -36,7 +36,6 @@ I am a software developer with three years of experience, I had fun with every s
 ![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=35) 
 ![Oracle](https://img.icons8.com/color/35/oracle-logo.png)
 ![Graphql](https://img.icons8.com/color/35/null/graphql.png)
-![Kubernetes](https://img.icons8.com/color/35/kubernetes.png)
 ![Firebase](https://img.icons8.com/?id=62452&size=35&color=000000)
 ![Git](https://img.icons8.com/color/35/git.png)
 ![Gitlab](https://img.icons8.com/color/35/gitlab.png)
