@@ -13,7 +13,7 @@ I am a software developer with three years of experience, I had fun with every s
 ![HTML5](https://img.icons8.com/color/35/html-5.png)
 ![CSS3](https://img.icons8.com/color/35/css3.png) 
 ![JavaScript](https://img.icons8.com/color/35/javascript.png)
-![PHP](https://img.icons8.com/officexs/35/php-logo.png)
+![PHP](https://img.icons8.com/officexs/35/php-logo.png) 
 ![Laravel](https://img.icons8.com/fluency/35/laravel.png) 
 ![Python](https://img.icons8.com/color/35/python--v1.png)
 ![C](https://img.icons8.com/color/35/c-programming.png)
