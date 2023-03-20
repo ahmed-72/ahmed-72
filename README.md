@@ -9,7 +9,24 @@
 I am a software developer with three years of experience, I had fun with every single line of code and I wish to code some more millions.
 ## Programming Languages & Frameworks
 
-![Dart](https://img.icons8.com/color/35/dart.png)![Flutter](https://img.icons8.com/color/35/flutter.png)![HTML5](https://img.icons8.com/color/35/html-5.png)![CSS3](https://img.icons8.com/color/35/css3.png)![JavaScript](https://img.icons8.com/color/35/javascript.png)![Python](https://img.icons8.com/color/35/python--v1.png)![C](https://img.icons8.com/color/35/c-programming.png)![Cpp](https://img.icons8.com/color/35/c-plus-plus-logo.png)![Java](https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png)![Java Spring](https://img.icons8.com/?id=90519&size=35)![ReactJS](https://img.icons8.com/plasticine/35/react.png)![Bash](https://img.icons8.com/plasticine/35/bash.png)![PHP](https://img.icons8.com/officexs/35/php-logo.png)![Laravel](https://img.icons8.com/fluency/35/laravel.png)![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/35/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)![Vue](https://img.icons8.com/color/35/null/vue-js.png)
+![Dart](https://img.icons8.com/color/35/dart.png)
+![Flutter](https://img.icons8.com/color/35/flutter.png)
+![HTML5](https://img.icons8.com/color/35/html-5.png)
+![CSS3](https://img.icons8.com/color/35/css3.png)
+![JavaScript](https://img.icons8.com/color/35/javascript.png)
+![Python](https://img.icons8.com/color/35/python--v1.png)
+![C](https://img.icons8.com/color/35/c-programming.png)
+![Cpp](https://img.icons8.com/color/35/c-plus-plus-logo.png)
+![Java](https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png)
+![Java Spring](https://img.icons8.com/?id=90519&size=35)
+![ReactJS](https://img.icons8.com/plasticine/35/react.png)
+![Bash](https://img.icons8.com/plasticine/35/bash.png)
+![PHP](https://img.icons8.com/officexs/35/php-logo.png)
+![Laravel](https://img.icons8.com/fluency/35/laravel.png)
+![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/35/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)
+![Vue](https://img.icons8.com/color/35/null/vue-js.png)
+![Bootstrap](https://img.icons8.com/color/36/null/bootstrap.png)
+
 <!-- nosql sqlite vuejs -->
 
 ## Technologies
