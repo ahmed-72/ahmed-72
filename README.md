@@ -1,7 +1,8 @@
 # `Hi there, This is Ahmed!` <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px" alt="Hi!">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.assar11/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-assar-59181622n/)
-[![!Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thisis_ahmed__)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.assar11/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-assar-59181622n/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thisis_ahmed__)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00EE00&size=24&width=500&lines=Software+Engineer;Competitive+Programmer;Full+stack+web-developer!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
@@ -32,7 +33,13 @@ I am a software developer with three years of experience, I had fun with every s
 
 ## Technologies
 
-![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=35) ![Oracle](https://img.icons8.com/color/35/oracle-logo.png)<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/> </a>![Kubernetes](https://img.icons8.com/color/35/kubernetes.png)![Firebase](https://img.icons8.com/?id=62452&size=35&color=000000)![Git](https://img.icons8.com/color/35/git.png)![Gitlab](https://img.icons8.com/color/35/gitlab.png)![Github](https://img.icons8.com/?id=52539&size=35)![Bitbucket](https://img.icons8.com/color/35/bitbucket.png)
+![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=35) 
+![Oracle](https://img.icons8.com/color/35/oracle-logo.png)<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/> </a>
+![Kubernetes](https://img.icons8.com/color/35/kubernetes.png)![Firebase](https://img.icons8.com/?id=62452&size=35&color=000000)
+![Git](https://img.icons8.com/color/35/git.png)
+![Gitlab](https://img.icons8.com/color/35/gitlab.png)
+![Github](https://img.icons8.com/?id=52539&size=35)
+![Bitbucket](https://img.icons8.com/color/35/bitbucket.png)
 
 ## Tools
 
