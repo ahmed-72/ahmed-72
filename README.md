@@ -72,5 +72,5 @@ I am a software developer with three years of experience, I had fun with every s
 
 ### Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=ahmed-72&theme=darkhub&no-frame=true&column=10">
+    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=ahmed-72&title=Commits,Repositories,Stars&theme=darkhub&no-frame=true&column=10">
 </a>
