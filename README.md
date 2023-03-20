@@ -28,7 +28,7 @@ I am a software developer with three years of experience, I had fun with every s
 ![Tailwindcss](https://img.icons8.com/color/35/null/tailwindcss.png)
 ![Dart](https://img.icons8.com/color/35/dart.png)
 ![Flutter](https://img.icons8.com/color/35/flutter.png)
-![nuxt-js](https://img.icons8.com/color/48/null/nuxt-jc.png)
+![nuxt-js](https://img.icons8.com/color/35/null/nuxt-jc.png)
 
  
 <!-- nosql sqlite vuejs -->
