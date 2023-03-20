@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.assar11/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-assar-59181622n/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00EE00&size=24&width=500&lines=Team+Leader;Software+Engineer;Competitive+Programmer;and+Cybersecurity+Specialist!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00EE00&size=24&width=500&lines=Software+Engineer;Competitive+Programmer;Full+stack+web-developer!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 
 I am a software developer with three years of experience, I had fun with every single line of code and I wish to code some more millions.
@@ -29,7 +29,7 @@ I am a software developer with three years of experience, I had fun with every s
 
 ## Technologies
 
-![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=35) ![Oracle](https://img.icons8.com/color/35/oracle-logo.png)![MongoDB](https://img.icons8.com/color/35/mongodb.png)<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/> </a>![Docker](https://img.icons8.com/color/35/docker.png)![Kubernetes](https://img.icons8.com/color/35/kubernetes.png)![Firebase](https://img.icons8.com/?id=62452&size=35&color=000000)![Git](https://img.icons8.com/color/35/git.png)![Gitlab](https://img.icons8.com/color/35/gitlab.png)![Github](https://img.icons8.com/?id=52539&size=35)![Bitbucket](https://img.icons8.com/color/35/bitbucket.png)
+![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=35) ![Oracle](https://img.icons8.com/color/35/oracle-logo.png)<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/> </a>![Kubernetes](https://img.icons8.com/color/35/kubernetes.png)![Firebase](https://img.icons8.com/?id=62452&size=35&color=000000)![Git](https://img.icons8.com/color/35/git.png)![Gitlab](https://img.icons8.com/color/35/gitlab.png)![Github](https://img.icons8.com/?id=52539&size=35)![Bitbucket](https://img.icons8.com/color/35/bitbucket.png)
 
 ## Tools
 
@@ -45,8 +45,6 @@ I am a software developer with three years of experience, I had fun with every s
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-72&count_private=true&show_icons=true&theme=chartreuse-dark)
 
-### Github Profile Views
-![Visitor Count](https://profile-counter.glitch.me/{ahmed-72}/count.svg)
 
 ### Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy">
