@@ -59,13 +59,14 @@ I am a software developer with three years of experience, I had fun with every s
 
 ## Operating Systems & Distributions
 
-![Windows](https://img.icons8.com/color/35/windows-10.png)![Linux](https://img.icons8.com/color/35/linux.png)
+![Windows](https://img.icons8.com/color/35/windows-10.png)
+![Linux](https://img.icons8.com/color/35/linux.png)
 
 ## Github Summary
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-72&layout=compact&theme=chartreuse-dark&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-72&layout=compact&theme=chartreuse-dark&count_private=false&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-72&count_private=true&show_icons=true&theme=chartreuse-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-72&count_private=false&show_icons=true&theme=chartreuse-dark)
 
 
 ### Trophies
