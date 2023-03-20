@@ -55,8 +55,7 @@ I am a software developer with three years of experience, I had fun with every s
 ![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=35)
 ![VSCode](https://img.icons8.com/color/35/visual-studio-code-2019.png)
 ![Console](https://img.icons8.com/color/35/console.png)
-![CMD](https://img.icons8.com/?id=19291&size=35)
-![Anaconda](https://img.icons8.com/fluency/35/anaconda--v2.png)
+![CMD](https://img.icons8.com/?id=19291&size=35)=
 
 ## Operating Systems & Distributions 
 
