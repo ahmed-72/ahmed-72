@@ -25,7 +25,7 @@ I am a software developer with three years of experience, I had fun with every s
 ![Bash](https://img.icons8.com/plasticine/35/bash.png)
 ![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/35/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)
 ![Bootstrap](https://img.icons8.com/color/35/null/bootstrap.png)
-![Tailwindcss](https://img.icons8.com/color/36/null/tailwindcss.png)
+![Tailwindcss](https://img.icons8.com/color/35/null/tailwindcss.png)
 ![Dart](https://img.icons8.com/color/35/dart.png)
 ![Flutter](https://img.icons8.com/color/35/flutter.png)
 
