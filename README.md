@@ -56,7 +56,7 @@ I am a software developer with three years of experience, I had fun with every s
 ![CMD](https://img.icons8.com/?id=19291&size=35)
 ![Anaconda](https://img.icons8.com/fluency/35/anaconda--v2.png)
 
-## Operating Systems & Distributions
+## Operating Systems & Distributions 
 
 ![Windows](https://img.icons8.com/color/35/windows-10.png)
 ![Linux](https://img.icons8.com/color/35/linux.png)
