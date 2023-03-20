@@ -49,7 +49,7 @@ I am a software developer with three years of experience, I had fun with every s
 ![Jetbrains Products](https://img.icons8.com/color/35/jetbrains.png)
 ![WebStorm](https://img.icons8.com/?id=32sNCVhNAx9Y&size=35)
 ![SceneBuilder](https://img.icons8.com/?id=BZz399uT6eo0&size=35&color=000000)
-![Eclipse](https://img.icons8.com/office/35/java-eclipse.png)
+![Eclipse](https://img.icons8.com/office/35/java-eclipse.png) 
 ![Visual Studio](https://img.icons8.com/?id=y7WGoWNuIWac&size=35)
 ![VSCode](https://img.icons8.com/color/35/visual-studio-code-2019.png)
 ![Console](https://img.icons8.com/color/35/console.png)
