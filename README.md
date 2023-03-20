@@ -10,8 +10,6 @@
 I am a software developer with three years of experience, I had fun with every single line of code and I wish to code some more millions.
 ## Programming Languages & Frameworks
 
-![Dart](https://img.icons8.com/color/35/dart.png)
-![Flutter](https://img.icons8.com/color/35/flutter.png)
 ![HTML5](https://img.icons8.com/color/35/html-5.png)
 ![CSS3](https://img.icons8.com/color/35/css3.png)
 ![JavaScript](https://img.icons8.com/color/35/javascript.png)
@@ -28,6 +26,8 @@ I am a software developer with three years of experience, I had fun with every s
 ![Vue](https://img.icons8.com/color/35/null/vue-js.png)
 ![Bootstrap](https://img.icons8.com/color/36/null/bootstrap.png)
 ![Tailwindcss](https://img.icons8.com/color/36/null/tailwindcss.png)
+![Dart](https://img.icons8.com/color/35/dart.png)
+![Flutter](https://img.icons8.com/color/35/flutter.png)
 
 <!-- nosql sqlite vuejs -->
 
