@@ -16,7 +16,7 @@ I am a software developer with three years of experience, I had fun with every s
 ![PHP](https://img.icons8.com/officexs/35/php-logo.png) 
 ![Laravel](https://img.icons8.com/fluency/35/laravel.png) 
 ![Python](https://img.icons8.com/color/35/python--v1.png)
-![C](https://img.icons8.com/color/35/c-programming.png)
+![C](https://img.icons8.com/color/35/c-programming.png) 
 ![Cpp](https://img.icons8.com/color/35/c-plus-plus-logo.png) 
 ![Java](https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png)
 ![Java Spring](https://img.icons8.com/?id=90519&size=35) 
