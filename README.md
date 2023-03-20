@@ -14,12 +14,14 @@ Full stack web developer @
 <a href="https://atyaf.co/ar">
     <img width="35" height="35" src="https://atyaf.co/ar/structure/static/logo.svg">
 </a>
-<br>
+<br><br>
+<div>
 Full stack web developer @
-<a href="https://ctrladz.com/en/" style="display: inline-block; padding-top: 10px;\" >
-    <img width="35" height="35" src="http://ctrladz.com/wp-content/uploads/2022/06/meed-1.png">
+<a href="https://ctrladz.com/en/" style="display: inline-block;" >
+    <span style="display: block; padding-top: 10px;"></span>
+    <img width="35" height="35" src="http://ctrladz.com/wp-content/uploads/2022/06/meed-1.png" style="margin-top: 10px;">
 </a>
-
+</div>
 
 ## Programming Languages & Frameworks 
 
