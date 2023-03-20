@@ -16,7 +16,7 @@ Full stack web developer @
 </a>
 <br>
 Full stack web developer @
-<a href="https://ctrladz.com/en/" style="padding-top:10px">
+<a href="https://ctrladz.com/en/" style="display: inline-block; padding-top: 10px;\" >
     <img width="35" height="35" src="http://ctrladz.com/wp-content/uploads/2022/06/meed-1.png">
 </a>
 
