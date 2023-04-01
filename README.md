@@ -72,7 +72,6 @@ Full stack web developer @
 ![Eclipse](https://img.icons8.com/office/35/java-eclipse.png)
 ![Console](https://img.icons8.com/color/35/console.png)
 ![CMD](https://img.icons8.com/?id=19291&size=35)
-![CMD](https://img.icons8.com/?id=19291&size=35)
 
 ## Operating Systems & Distributions 
 
