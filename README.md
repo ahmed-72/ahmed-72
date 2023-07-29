@@ -11,13 +11,13 @@ I am a software developer with two years of experience, I had fun with every sin
 
 ## Work Experience
 Full stack web developer @
-<a href="https://atyaf.co/ar">
+<a href="https://atyaf.co/ar" target="_blank">
     <img width="35" height="35" src="https://atyaf.co/ar/structure/static/logo.svg">
 </a>
 <br>
 <div>
 Full stack web developer @
-<a href="https://ctrladz.com">
+<a href="https://ctrladz.com" target="_blank">
     <img width="33" height="33" src="https://ctrladz.com/wp-content/uploads/2022/03/s.png">
 </a>
 </div>
