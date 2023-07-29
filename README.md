@@ -17,8 +17,8 @@ Full stack web developer @
 <br>
 <div>
 Full stack web developer @
-<a href="https://ctrladz.com/en/">
-    <img width="33" height="33" src="http://ctrladz.com/wp-content/uploads/2022/06/meed-1.png">
+<a href="https://ctrladz.com">
+    <img width="33" height="33" src="https://ctrladz.com/wp-content/uploads/2022/03/s.png">
 </a>
 </div>
 
